@@ -27,5 +27,6 @@ end
 def make_courses
 end
 
-
 end
+
+Scraper.new.get_page
